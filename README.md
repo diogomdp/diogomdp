@@ -34,9 +34,9 @@
 ### 🐧 Distros that I love:
 
 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/ubuntu.png" alt="ubuntu" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/fedora.png" alt="fedora" width="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/arch.png" alt="arch" width="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/ubuntu.png" alt="ubuntu" width="40" height="40"/> </a>
+<a href="https://getfedora.org/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/fedora.png" alt="fedora" width="40"/> </a>
+<a href="https://archlinux.org/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/arch.png" alt="arch" width="40"/> </a>
 <!--
 Here are some ideas to get you started:
 

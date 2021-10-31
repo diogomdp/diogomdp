@@ -20,8 +20,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/css3.svg" alt="css" width="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/javascript.svg" alt="javascript" width="40"/> </a> 
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/ruby_lang.png" alt="ruby" width="40"/> </a>
+</p>
 
-
+<p align=center>
 <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/nodejs.svg" alt="nodejs" width="40"/> </a>
 <a href="https://firebase.google.com/?hl=pt-br" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/firebase.svg" alt="firebase" width="30"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/visual-studio-code.svg" alt="vscode" width="40"/> </a>

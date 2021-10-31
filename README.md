@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/astindev">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=astindev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astindev&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=astindev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astindev&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 <div>
 

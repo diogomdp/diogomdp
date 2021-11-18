@@ -29,7 +29,7 @@
 <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/sublimetext.png" alt="sublime" width="40"/> </a>  
 <a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/postman.svg" alt="Postman" width="40"/> </a>
 <a href="https://insomnia.rest" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/insomnia.svg" alt="insomnia" width="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/git.svg" alt="git" width="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/git.png" alt="git" width="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/github-icon.svg" alt="github" width="40"/>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/docker.png" alt="docker" width="40"/> </a>
 </p>

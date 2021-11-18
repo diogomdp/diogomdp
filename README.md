@@ -37,8 +37,9 @@
 ### 🐧 Distros that I love:
 
 <p align=center>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/ubuntu.png" alt="ubuntu" width="40" height="40"/> </a>
-<a href="https://getfedora.org/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/fedora.png" alt="fedora" width="40"/> </a>
-<a href="https://archlinux.org/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/arch.png" alt="arch" width="40"/> </a>
-<a href="https://manjaro.org/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/manjaro.svg" alt="manjaro" width="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/ubuntu.png" alt="Ubuntu" width="40" height="40"/> </a>
+<a href="https://getfedora.org/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/fedora.png" alt="Fedora" width="40"/> </a>
+<a href="https://archlinux.org/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/arch.png" alt="Arch" width="40"/> </a>
+<a href="https://manjaro.org/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/manjaro.svg" alt="Manjaro" width="40"/> </a>
+<a href="https://neon.kde.org/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/neon.svg" alt="Kde Neon" width="40"/> </a>
 </p>

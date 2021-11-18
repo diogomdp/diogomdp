@@ -16,10 +16,11 @@
   
 ### 🔨Languages and Tools:
 <p align=center>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/html-5.svg" alt="html5" width="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/css3.svg" alt="css" width="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/javascript.svg" alt="javascript" width="40"/> </a> 
-<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/ruby_lang.png" alt="ruby" width="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/html-5.svg" alt="HTML5" width="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/css3.svg" alt="CSS" width="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/javascript.svg" alt="JavaScript" width="40"/> </a>
+<a href="https://www.tutorialspoint.com/cprogramming/c_quick_guide.htm" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/clang.svg" alt="C" width="40"/> 
+<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://github.com/astindev/astindev/blob/main/.github/logos/ruby_lang.png" alt="Ruby" width="40"/> </a>
 </p>
 
 <p align=center>

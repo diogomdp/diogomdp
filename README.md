@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👤 A young man who likes to be enthusiastic and self-taught about all things Linux, open source projects, decentralized networks and more
+- 👤 A guy who likes to be enthusiastic and self-taught about all things Linux, I love to use/know open source projects and new technologies in GNU/Linux, I also like decentralized or peer-to-peer networks and admire blockchain technology and more.
 - 🎓 I am currently a student
 - 🌱 I’m currently learning C, HTML and CSS
 - 😄 Pronouns: he/him

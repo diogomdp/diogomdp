@@ -1,9 +1,8 @@
 ### Hi there 👋
-- 👤 A guy who likes to be enthusiastic and self-taught about all things Linux, I love to use/know open source projects and new technologies in GNU/Linux, I also like decentralized or peer-to-peer networks and admire blockchain technology and more.
+- 👤 I am enthusiastic and self-taught about all things Linux, I love open source projects and learning about new technologies.
 - 🎓 I am currently a student
 - 🌱 I’m currently learning C, HTML and CSS
 - 😄 Pronouns: he/him
-<div>
 
 ### [🐱]-Github Stats
 

@@ -49,7 +49,7 @@
 <div class="distros" align="center">  
   <code>
     <a href="https://archlinux.org/" target="_blank"> <img src=".github/logos/distros/Arch.png" alt="Arch" width="45"/></a>
-    <a href="https://getfedora.org/" target="_blank"> <img src=".github/logos/distros/fedora.png" alt="Fedora" width="39"/></a>
+    <a href="https://getfedora.org/" target="_blank"> <img src=".github/logos/distros/fedora.png" alt="Fedora" width="45"/></a>
     <a href="https://ubuntu.com/" target="_blank"> <img src=".github/logos/distros/ubuntu.png" alt="Ubuntu" width="45"/></a>
     <a href="https://manjaro.org/" target="_blank"> <img src=".github/logos/distros/Manjaro.png" alt="Manjaro" width="45"/></a>
      <a href="https://neon.kde.org/" target="_blank"> <img src=".github/logos/distros/neon.svg" alt="Kde Neon" width="43"/></a>

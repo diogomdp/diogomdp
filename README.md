@@ -10,8 +10,8 @@
 
   <div class="stats" align="center">
   <a href="https://github.com/astindev">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=astindev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astindev&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="135" src="https://github-readme-stats.vercel.app/api?username=astindev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astindev&layout=compact&langs_count=16&theme=tokyonight"/>
   </a>
 </div>
 

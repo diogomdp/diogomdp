@@ -1,3 +1,4 @@
+`🔴 🟡 🟣 README.md`     
 ### Hi there 👋
 - 👤 I am enthusiastic and self-taught about all things Linux, I love open source projects and learning about new technologies.
 - 🎓 I am currently a student

@@ -22,9 +22,9 @@
 
 <div class="languages" align="center">
   <code>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src=".github/logos/langs/html5.png" alt="HTML5" width="30"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src=".github/logos/langs/html5.png" alt="HTML5" width="45"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src=".github/logos/langs/css.png" alt="CSS" width="45"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src=".github/logos/langs/javascript.svg" alt="JavaScript" width="43"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src=".github/logos/langs/javascript.svg" alt="JavaScript" width="42"/></a>
     <a href="https://nodejs.org" target="_blank"> <img src=".github/logos/langs/nodejs.png" alt="nodejs" width="39"/></a>
     <a href="https://www.tutorialspoint.com/cprogramming/c_quick_guide.htm" target="_blank"> <img src=".github/logos/langs/clang.svg" alt="C" width="45"/> </a> 
     <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src=".github/logos/langs/ruby_lang.png" alt="Ruby" width="40"/></a>

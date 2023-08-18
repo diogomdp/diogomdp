@@ -2,7 +2,7 @@
 ### Hi there 👋
 - 👤 I am enthusiastic and self-taught about all things Linux, I love open source projects and learning about new technologies.
 - 🎓 I am currently a student
-- 🌱 I’m currently learning C, HTML and CSS
+- 🌱 I’m currently learning Java, HTML and CSS
 - 💬 Langs: Portuguese (native), English (learning)
 - 🌍 Timezone: Europe/Lisbon;
 - 😄 Pronouns: he/him

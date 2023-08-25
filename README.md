@@ -1,15 +1,14 @@
-`🔴 🟡 🟣 README.md`     
 ### Hi there 👋
 - 👤 I am enthusiastic and self-taught about all things Linux, I love open source projects and learning about new technologies.
 - 🎓 I am currently a student
-- 🌱 I’m currently learning Java, HTML and CSS
+- 🌱 I am currently learning Nix, Java, HTML and CSS
 - 💬 Langs: Portuguese (native), English (learning)
 - 🌍 Timezone: Europe/Lisbon;
 - 😄 Pronouns: he/him
 
 ### [🐱]-Github Stats
 
-  <div class="stats" align="center">
+<div class="stats" align="center">
   <a href="https://github.com/astindev">
   <img height="135" src="https://github-readme-stats.vercel.app/api?username=astindev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astindev&layout=compact&langs_count=16&theme=tokyonight"/>
@@ -31,5 +30,6 @@
 ### [🐧]-Distros that I love:
 
 <div class="distros" align="center">  
-  <code><a href="https://debian.org/" target="_blank"> <img src=".github/logos/distros/debian.png" alt="Debian" width="45"/></a><a href="https://archlinux.org/" target="_blank"> <img src=".github/logos/distros/Arch.png" alt="Arch" width="45"/></a><a href="https://ubuntu.com/" target="_blank"> <img src=".github/logos/distros/ubuntu.png" alt="Ubuntu" width="45"/></a><a href="https://getfedora.org/" target="_blank"> <img src=".github/logos/distros/fedora.png" alt="Fedora" width="45"/></a><a href="https://manjaro.org/" target="_blank"> <img src=".github/logos/distros/Manjaro.png" alt="Manjaro" width="45"/></a><a href="https://neon.kde.org/" target="_blank"> <img src=".github/logos/distros/neon.svg" alt="Kde Neon" width="43"/></a><a href="https://pop.system76.com/" target="_blank"> <img src=".github/logos/distros/pop.png" alt="Pop!_OS" width="43"/></a></code>
+  <code>
+  <a href="https://debian.org/" target="_blank"> <img src=".github/logos/distros/debian.png" alt="Debian GNU/Linux" width="45"/></a><a href="https://nixos.org/" target="_blank"> <img src=".github/logos/distros/nixos.png" alt="NixOS" width="45"/></a><a href="https://archlinux.org/" target="_blank"> <img src=".github/logos/distros/arch.png" alt="Arch Linux" width="45"/></a><a href="https://getfedora.org/" target="_blank"> <img src=".github/logos/distros/fedora.png" alt="Fedora" width="45"/></a><a href="https://neon.kde.org/" target="_blank"> <img src=".github/logos/distros/neon.svg" alt="Kde Neon" width="43"/></a><a href="https://pop.system76.com/" target="_blank"> <img src=".github/logos/distros/pop.png" alt="Pop!_OS" width="43"/></a></code>
 </div>

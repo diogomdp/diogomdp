@@ -5,11 +5,6 @@
 - 🌍 Timezone: Europe/Lisbon;
 - 😄 Pronouns: he/him
 
-## [🐱] Github Stats
-<div align="center">
-    <img height="" alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=diogomdp&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-</div>
-
 ## Programing Languages:
 [![Programming languages](https://skillicons.dev/icons?i=html,css,js,ts,bun,nodejs,c,nix,ruby,py,java)](https://skillicons.dev)
 
@@ -40,15 +35,18 @@
 </div>
 
 ## Databases
-[![DB](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ## Cloud computing
-[![cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-and Homelab.
+<div>
+    <img src="https://corporate.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2022-03/ovhcloud-logo2.webp" alt="ovh" width="120"/> <span>and On-premises.</span>
+</div>
 
 ## Containers
 [![containers](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-<img src=".github/assets/utils/podman.png" alt="podman" width="55">
+<a href=”https://www.ovhcloud.com/pt/”>
+    <img src=".github/assets/utils/podman.png" alt="podman" width="55"/>
+<a/>
 
 ## Networking
 <div>
